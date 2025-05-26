@@ -11,7 +11,7 @@ Este programa lee dos archivos secuenciales: uno con registros de empleados y ot
 
 - `PROG1.cbl` → Código COBOL
 - `JCLPROG1.jcl` → Ejecución JCL
-- `EMPDATA1.txt` → Datos de entrada de empleados
+- `EMP.txt` → Datos de entrada de empleados
 - `FILTROS.txt` → Instrucciones condicionales
 - `SYSOUT.txt` → Resultado real desde SDSF
 - `/capturas/` → Imágenes del entorno y ejecución
