@@ -1,0 +1,15 @@
+SH                           
+SM                           
+R<090                        
+R<060                        
+R>060                        
+R>080                        
+R=096                        
+P=OPERADOR                   
+P=DBA                        
+P=TESTER                     
+P=CONSULTOR                  
+I=0015                       
+I=0030                       
+I=0019                       
+I=0007                       
