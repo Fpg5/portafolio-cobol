@@ -27,21 +27,21 @@ Compilado y ejecutado mediante JCL en entorno z/OS de IBM.
 Este sistema está compuesto por un programa principal que carga en memoria una tabla con 40 empleados a partir de un archivo secuencial, y un subprograma que es invocado para aplicar reglas de negocio sobre cada registro. Por cada empleado, se genera una clave identificadora basada en sus datos y se calcula un bono proporcional a su rendimiento y antigüedad. El subprograma realiza la evaluación y devuelve la clave, el bono y una bandera que indica si el bono fue autorizado.
 
 **Componentes:**
-- Programa principal: MNPROG1A
-- Subprograma llamado: SBPROG1A mediante CALL USING
-- Archivo de entrada: EMPDATA2, con registros que incluyen ID, nombre, edad, sexo, puesto, antigüedad, rendimiento y sueldo
+- Programa principal: `MNPROG1A`
+- Subprograma llamado: `SBPROG1A` mediante `CALL USING`
+- Archivo de entrada: `EMPDATA`, con registros que incluyen ID, nombre, edad, sexo, puesto, antigüedad, rendimiento y sueldo
 
 **Uso de:**
-- OCCURS e índices para tabla en memoria
-- LINKAGE SECTION para intercambio de datos entre programas
-- Conversión de tipos con FUNCTION NUMVAL
-- Cálculo con constantes (MULTIPLY BY 0.10, 0.15)
-- Manipulación de cadenas (MOVE, PERFORM VARYING, substrings)
-- EVALUATE para reglas de autorización de bono
+- `OCCURS` e índices para tabla en memoria
+- `LINKAGE SECTION` para intercambio de datos entre programas
+- Conversión de tipos con `FUNCTION NUMVAL`
+- Cálculo con constantes (`MULTIPLY BY` 0.10, 0.15)
+- Manipulación de cadenas (`MOVE`, `PERFORM VARYING`, substrings)
+- `EVALUATE` para reglas de autorización de bono
 - Generación de clave estructurada: ID, inicial del nombre, apellido, puesto abreviado y sexo
 
 **Ejecución:**  
-Ambos programas fueron compilados, enlazados y ejecutados en entorno mainframe z/OS utilizando un JCL adaptado con múltiples pasos (IGYWCL, LINKEDIT, PGM=MNPROG1A).
+Ambos programas fueron compilados, enlazados y ejecutados en entorno mainframe z/OS utilizando un JCL adaptado con múltiples pasos (`IGYWCL`, `LINKEDIT`, `PGM=MNPROG1A`).
 
 **Capturas y código disponible en la carpeta** [`/programa-clave-bono`](./programa-clave-bono)
 
