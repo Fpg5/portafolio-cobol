@@ -1,0 +1,572 @@
+********************************* TOP OF DATA **********************************
+---------- REGISTRO DE EMPLEADOS ----------                                     
+ REGISTRO NUMERO 001:                                                           
+   ID: 0001                                                                     
+   EMPLEADO: LUIS RAMOS                                                         
+   PUESTO: ARQUITECTO                                                           
+   EDAD: 50                                                                     
+___________________________________________                                     
+ REGISTRO NUMERO 002:                                                           
+   ID: 0002                                                                     
+   EMPLEADO: ANA GOMEZ                                                          
+   PUESTO: ANALISTA                                                             
+   EDAD: 54                                                                     
+___________________________________________                                     
+ REGISTRO NUMERO 003:                                                           
+   ID: 0003                                                                     
+   EMPLEADO: RAMIRO VEGA                                                        
+   PUESTO: DBA                                                                  
+   EDAD: 38                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 004:                                                         
+   ID: 0004                                                                   
+   EMPLEADO: LUCIA LARA                                                       
+   PUESTO: PROGRAMADOR                                                        
+   EDAD: 25                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 005:                                                         
+   ID: 0005                                                                   
+   EMPLEADO: IVAN TORRES                                                      
+   PUESTO: ARQUITECTO                                                         
+   EDAD: 46                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 006:                                                         
+   ID: 0006                                                                   
+   EMPLEADO: PEDRO LOPEZ                                                      
+   PUESTO: DBA                                                                
+   EDAD: 27                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 007:                                                         
+   ID: 0007                                                                   
+   EMPLEADO: NATALIA SOL                                                      
+   PUESTO: ANALISTA                                                           
+   EDAD: 61                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 008:                                                         
+   ID: 0008                                                                   
+   EMPLEADO: ROBERTO FAY                                                      
+   PUESTO: CONSULTOR                                                          
+   EDAD: 61                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 009:                                                         
+   ID: 0009                                                                   
+   EMPLEADO: MARIANA GOMEZ                                                    
+   PUESTO: JEFE PROYECTO                                                      
+   EDAD: 61                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 010:                                                         
+   ID: 0010                                                                   
+   EMPLEADO: SERGIO LOPEZ                                                     
+   PUESTO: DBA                                                                
+   EDAD: 63                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 011:                                                         
+   ID: 0011                                                                   
+   EMPLEADO: JOSE RAMOS                                                       
+   PUESTO: OPERADOR                                                           
+   EDAD: 23                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 012:                                                         
+   ID: 0012                                                                   
+   EMPLEADO: YOSELIN LARA                                                     
+   PUESTO: CONSULTOR                                                          
+   EDAD: 57                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 013:                                                         
+   ID: 0013                                                                   
+   EMPLEADO: MARTA LEON                                                       
+   PUESTO: JEFE PROYECTO                                                      
+   EDAD: 36                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 014:                                                         
+   ID: 0014                                                                   
+   EMPLEADO: ROBERTO AGUIRRE                                                  
+   PUESTO: CONSULTOR                                                          
+   EDAD: 62                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 015:                                                         
+   ID: 0015                                                                   
+   EMPLEADO: LUCIO LARA                                                       
+   PUESTO: DBA                                                                
+   EDAD: 20                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 016:                                                         
+   ID: 0016                                                                   
+   EMPLEADO: ENRIQUE VEGA                                                     
+   PUESTO: JEFE PROYECTO                                                      
+   EDAD: 29                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 017:                                                         
+   ID: 0017                                                                   
+   EMPLEADO: PILAR RIOS                                                       
+   PUESTO: ARQUITECTO                                                         
+   EDAD: 59                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 018:                                                         
+   ID: 0018                                                                   
+   EMPLEADO: ROMINA SOL                                                       
+   PUESTO: OPERADOR                                                           
+   EDAD: 49                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 019:                                                         
+   ID: 0019                                                                   
+   EMPLEADO: MARCO LEON                                                       
+   PUESTO: CONSULTOR                                                          
+   EDAD: 40                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 020:                                                         
+   ID: 0020                                                                   
+   EMPLEADO: RAMSES LOPEZ                                                     
+   PUESTO: PROGRAMADOR                                                        
+   EDAD: 20                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 021:                                                         
+   ID: 0021                                                                   
+   EMPLEADO: RICARDO VEGA                                                     
+   PUESTO: PROGRAMADOR                                                        
+   EDAD: 26                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 022:                                                         
+   ID: 0022                                                                   
+   EMPLEADO: BERENICE LEON                                                    
+   PUESTO: DBA                                                                
+   EDAD: 29                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 023:                                                         
+   ID: 0023                                                                   
+   EMPLEADO: ELENA ROJO                                                       
+   PUESTO: OPERADOR                                                           
+   EDAD: 43                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 024:                                                         
+    ID: 0024                                                                   
+   EMPLEADO: NICANOR SOL                                                      
+   PUESTO: OPERADOR                                                           
+   EDAD: 37                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 025:                                                         
+   ID: 0025                                                                   
+   EMPLEADO: FERMIN VEGA                                                      
+   PUESTO: CONSULTOR                                                          
+   EDAD: 48                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 026:                                                         
+   ID: 0026                                                                   
+   EMPLEADO: NATALIA HERNANDEZ                                                
+   PUESTO: TESTER                                                             
+   EDAD: 30                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 027:                                                         
+   ID: 0027                                                                   
+   EMPLEADO: CARLA DIAZ                                                       
+   PUESTO: DBA                                                                
+   EDAD: 31                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 028:                                                         
+   ID: 0028                                                                   
+   EMPLEADO: GEREMIAS LARA                                                    
+   PUESTO: DBA                                                                
+   EDAD: 57                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 029:                                                         
+   ID: 0029                                                                   
+   EMPLEADO: LAURA MESA                                                       
+   PUESTO: DISE ADOR                                                          
+   EDAD: 55                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 030:                                                         
+   ID: 0030                                                                   
+   EMPLEADO: ANDREA FON                                                       
+   PUESTO: PROGRAMADOR                                                        
+   EDAD: 28                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 031:                                                         
+   ID: 0031                                                                   
+   EMPLEADO: PEDRO LOPEZ                                                      
+   PUESTO: SUPERVISOR                                                         
+   EDAD: 64                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 032:                                                         
+   ID: 0032                                                                   
+   EMPLEADO: DIEGO CRUZ                                                       
+   PUESTO: OPERADOR                                                           
+   EDAD: 22                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 033:                                                         
+   ID: 0033                                                                   
+   EMPLEADO: PILAR RIOS                                                       
+   PUESTO: DISE ADOR                                                          
+   EDAD: 29                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 034:                                                         
+   ID: 0034                                                                   
+   EMPLEADO: ESTEBAN ROJO                                                     
+   PUESTO: TESTER                                                             
+   EDAD: 61                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 035:                                                         
+   ID: 0035                                                                   
+   EMPLEADO: VENANCIO VEGA                                                    
+   PUESTO: TESTER                                                             
+   EDAD: 53                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 036:                                                         
+   ID: 0036                                                                   
+   EMPLEADO: NOEMI VEGA                                                       
+   PUESTO: ANALISTA                                                           
+   EDAD: 37                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 037:                                                         
+   ID: 0037                                                                   
+   EMPLEADO: JORGE ALBA                                                       
+   PUESTO: TESTER                                                             
+   EDAD: 29                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 038:                                                         
+   ID: 0038                                                                   
+   EMPLEADO: SERGIO CRUZ                                                      
+   PUESTO: OPERADOR                                                           
+   EDAD: 46                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 039:                                                         
+   ID: 0039                                                                   
+   EMPLEADO: FERNANDA CRUZ                                                    
+   PUESTO: DBA                                                                
+   EDAD: 31                                                                   
+___________________________________________                                   
+ REGISTRO NUMERO 040:                                                         
+   ID: 0040                                                                   
+   EMPLEADO: FABIOLA LEON                                                     
+   PUESTO: CONSULTOR                                                          
+   EDAD: 24                                                                   
+___________________________________________                                   
+---------- GENERA CLAVE Y APLICA BONO ----------                              
+PROCESO NUMERO 001:                                                           
+ EMPLEADO: LUIS RAMOS                                                         
+ RENDIMIENTO: 090                                                             
+ ANTIGUEDAD: 060                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+  BONO: $  5,175.00                                                            
+ CLAVE GENERADA: 0001-L-RAMOS-ARQ-H                                           
+______________________________                                                
+PROCESO NUMERO 002:                                                           
+ EMPLEADO: ANA GOMEZ                                                          
+ RENDIMIENTO: 039                                                             
+ ANTIGUEDAD: 003                                                              
+ POR ANTIGUEDAD NO SE AUTORIZA BONO                                           
+ CLAVE GENERADA: 0002-A-GOMEZ-ANA-M                                           
+______________________________                                                
+PROCESO NUMERO 003:                                                           
+ EMPLEADO: RAMIRO VEGA                                                        
+ RENDIMIENTO: 037                                                             
+ ANTIGUEDAD: 016                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0003-R-VEGA-DBA-H                                            
+______________________________                                                
+PROCESO NUMERO 004:                                                           
+ EMPLEADO: LUCIA LARA                                                         
+ RENDIMIENTO: 020                                                             
+ ANTIGUEDAD: 185                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0004-L-LARA-PRO-M                                            
+______________________________                                                
+PROCESO NUMERO 005:                                                           
+ EMPLEADO: IVAN TORRES                                                        
+ RENDIMIENTO: 033                                                             
+ ANTIGUEDAD: 215                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0005-I-TORRES-ARQ-H                                          
+______________________________                                                
+PROCESO NUMERO 006:                                                           
+ EMPLEADO: PEDRO LOPEZ                                                        
+ RENDIMIENTO: 037                                                             
+ ANTIGUEDAD: 035                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0006-P-LOPEZ-DBA-H                                           
+______________________________                                                
+PROCESO NUMERO 007:                                                           
+ EMPLEADO: NATALIA SOL                                                        
+ RENDIMIENTO: 005                                                             
+ ANTIGUEDAD: 042                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0007-N-SOL-ANA-M                                             
+______________________________                                                
+PROCESO NUMERO 008:                                                           
+ EMPLEADO: ROBERTO FAY                                                        
+ RENDIMIENTO: 042                                                             
+ ANTIGUEDAD: 238                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0008-R-FAY-CON-H                                             
+______________________________                                                
+PROCESO NUMERO 009:                                                           
+ EMPLEADO: MARIANA GOMEZ                                                      
+ RENDIMIENTO: 051                                                             
+ ANTIGUEDAD: 119                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0009-M-GOMEZ-JEF-M                                           
+______________________________                                                
+PROCESO NUMERO 010:                                                           
+ EMPLEADO: SERGIO LOPEZ                                                       
+ RENDIMIENTO: 016                                                             
+ ANTIGUEDAD: 075                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0010-S-LOPEZ-DBA-H                                           
+______________________________                                                
+PROCESO NUMERO 011:                                                           
+ EMPLEADO: JOSE RAMOS                                                         
+ RENDIMIENTO: 002                                                             
+ ANTIGUEDAD: 123                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0011-J-RAMOS-OPE-H                                           
+______________________________                                                
+PROCESO NUMERO 012:                                                           
+ EMPLEADO: YOSELIN LARA                                                       
+ RENDIMIENTO: 089                                                             
+ ANTIGUEDAD: 045                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+ BONO: $ 10,125.00                                                            
+ CLAVE GENERADA: 0012-Y-LARA-CON-M                                            
+______________________________                                                
+PROCESO NUMERO 013:                                                           
+ EMPLEADO: MARTA LEON                                                         
+ RENDIMIENTO: 034                                                             
+ ANTIGUEDAD: 224                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0013-M-LEON-JEF-M                                            
+______________________________                                                
+PROCESO NUMERO 014:                                                           
+ EMPLEADO: ROBERTO AGUIRRE                                                    
+ RENDIMIENTO: 099                                                             
+ ANTIGUEDAD: 025                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+ BONO: $ 10,815.00                                                            
+ CLAVE GENERADA: 0014-R-AGUIRRE-CON-H                                         
+______________________________                                                
+PROCESO NUMERO 015:                                                           
+ EMPLEADO: LUCIO LARA                                                         
+ RENDIMIENTO: 058                                                             
+ ANTIGUEDAD: 134                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0015-L-LARA-DBA-H                                            
+______________________________                                                
+PROCESO NUMERO 016:                                                           
+ EMPLEADO: ENRIQUE VEGA                                                       
+ RENDIMIENTO: 028                                                             
+ ANTIGUEDAD: 078                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0016-E-VEGA-JEF-H                                            
+______________________________                                                
+PROCESO NUMERO 017:                                                           
+ EMPLEADO: PILAR RIOS                                                         
+ RENDIMIENTO: 096                                                             
+ ANTIGUEDAD: 178                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+ BONO: $ 12,075.00                                                            
+ CLAVE GENERADA: 0017-P-RIOS-ARQ-M                                            
+______________________________                                                
+PROCESO NUMERO 018:                                                           
+ EMPLEADO: ROMINA SOL                                                         
+ RENDIMIENTO: 072                                                             
+ ANTIGUEDAD: 232                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0018-R-SOL-OPE-M                                             
+______________________________                                                
+PROCESO NUMERO 019:                                                           
+ EMPLEADO: MARCO LEON                                                         
+ RENDIMIENTO: 018                                                             
+ ANTIGUEDAD: 123                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0019-M-LEON-CON-H                                            
+______________________________                                                
+PROCESO NUMERO 020:                                                           
+ EMPLEADO: RAMSES LOPEZ                                                       
+ RENDIMIENTO: 012                                                             
+ ANTIGUEDAD: 130                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0020-R-LOPEZ-PRO-H                                           
+______________________________                                                
+PROCESO NUMERO 021:                                                           
+ EMPLEADO: RICARDO VEGA                                                       
+ RENDIMIENTO: 060                                                             
+ ANTIGUEDAD: 023                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0021-R-VEGA-PRO-H                                            
+______________________________                                                
+PROCESO NUMERO 022:                                                           
+ EMPLEADO: BERENICE LEON                                                      
+ RENDIMIENTO: 011                                                             
+ ANTIGUEDAD: 185                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0022-B-LEON-DBA-M                                            
+______________________________                                                
+PROCESO NUMERO 023:                                                           
+ EMPLEADO: ELENA ROJO                                                         
+ RENDIMIENTO: 084                                                             
+ ANTIGUEDAD: 223                                                              
+ POR BUEN RENDIMIENTO                                                         
+  SE AUTORIZA BONO DEL 10%                                                    
+ BONO: $  9,670.00                                                            
+ CLAVE GENERADA: 0023-E-ROJO-OPE-M                                            
+______________________________                                                
+PROCESO NUMERO 024:                                                           
+ EMPLEADO: NICANOR SOL                                                        
+ RENDIMIENTO: 005                                                             
+ ANTIGUEDAD: 209                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0024-N-SOL-OPE-H                                             
+______________________________                                                
+PROCESO NUMERO 025:                                                           
+ EMPLEADO: FERMIN VEGA                                                        
+ RENDIMIENTO: 005                                                             
+ ANTIGUEDAD: 237                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0025-F-VEGA-CON-H                                            
+______________________________                                                
+PROCESO NUMERO 026:                                                           
+ EMPLEADO: NATALIA HERNANDEZ                                                  
+ RENDIMIENTO: 045                                                             
+ ANTIGUEDAD: 050                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0026-N-HERNANDEZ-TES-M                                       
+______________________________                                                
+PROCESO NUMERO 027:                                                           
+ EMPLEADO: CARLA DIAZ                                                         
+ RENDIMIENTO: 075                                                             
+ ANTIGUEDAD: 097                                                              
+ POR BUEN RENDIMIENTO                                                         
+  SE AUTORIZA BONO DEL 10%                                                    
+ BONO: $ 10,800.00                                                            
+ CLAVE GENERADA: 0027-C-DIAZ-DBA-M                                            
+______________________________                                                
+PROCESO NUMERO 028:                                                           
+ EMPLEADO: GEREMIAS LARA                                                      
+ RENDIMIENTO: 094                                                             
+ ANTIGUEDAD: 235                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+ BONO: $ 16,575.00                                                            
+ CLAVE GENERADA: 0028-G-LARA-DBA-H                                            
+______________________________                                                
+PROCESO NUMERO 029:                                                           
+ EMPLEADO: LAURA MESA                                                         
+ RENDIMIENTO: 009                                                             
+ ANTIGUEDAD: 047                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0029-L-MESA-DIS-M                                            
+______________________________                                                
+PROCESO NUMERO 030:                                                           
+ EMPLEADO: ANDREA FON                                                         
+ RENDIMIENTO: 042                                                             
+ ANTIGUEDAD: 032                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0030-A-FON-PRO-M                                             
+______________________________                                                
+PROCESO NUMERO 031:                                                           
+ EMPLEADO: PEDRO LOPEZ                                                        
+ RENDIMIENTO: 086                                                             
+ ANTIGUEDAD: 032                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+ BONO: $ 18,000.00                                                            
+ CLAVE GENERADA: 0031-P-LOPEZ-SUP-H                                           
+______________________________                                                
+PROCESO NUMERO 032:                                                           
+ EMPLEADO: DIEGO CRUZ                                                         
+ RENDIMIENTO: 004                                                             
+ ANTIGUEDAD: 231                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0032-D-CRUZ-OPE-H                                            
+______________________________                                                
+PROCESO NUMERO 033:                                                           
+ EMPLEADO: PILAR RIOS                                                         
+ RENDIMIENTO: 003                                                             
+ ANTIGUEDAD: 166                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0033-P-RIOS-DIS-M                                            
+______________________________                                                
+PROCESO NUMERO 034:                                                           
+ EMPLEADO: ESTEBAN ROJO                                                       
+ RENDIMIENTO: 030                                                             
+ ANTIGUEDAD: 229                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0034-E-ROJO-TES-H                                            
+______________________________                                                
+PROCESO NUMERO 035:                                                           
+ EMPLEADO: VENANCIO VEGA                                                      
+ RENDIMIENTO: 047                                                             
+ ANTIGUEDAD: 084                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0035-V-VEGA-TES-H                                            
+______________________________                                                
+PROCESO NUMERO 036:                                                           
+ EMPLEADO: NOEMI VEGA                                                         
+ RENDIMIENTO: 040                                                             
+ ANTIGUEDAD: 237                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0036-N-VEGA-ANA-M                                            
+______________________________                                                
+PROCESO NUMERO 037:                                                           
+ EMPLEADO: JORGE ALBA                                                         
+ RENDIMIENTO: 051                                                             
+ ANTIGUEDAD: 132                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0037-J-ALBA-TES-H                                            
+______________________________                                                
+PROCESO NUMERO 038:                                                           
+ EMPLEADO: SERGIO CRUZ                                                        
+ RENDIMIENTO: 025                                                             
+ ANTIGUEDAD: 033                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0038-S-CRUZ-OPE-H                                            
+______________________________                                                
+PROCESO NUMERO 039:                                                           
+ EMPLEADO: FERNANDA CRUZ                                                      
+ RENDIMIENTO: 086                                                             
+ ANTIGUEDAD: 168                                                              
+ POR EXCELENTE RENDIMIENTO                                                    
+  SE AUTORIZA BONO DEL 15%                                                    
+ BONO: $ 21,825.00                                                            
+ CLAVE GENERADA: 0039-F-CRUZ-DBA-M                                            
+______________________________                                                
+PROCESO NUMERO 040:                                                           
+ EMPLEADO: FABIOLA LEON                                                       
+ RENDIMIENTO: 067                                                             
+ ANTIGUEDAD: 209                                                              
+ POR INSUFICIENTE RENDIMIENTO                                                 
+  NO SE AUTORIZA BONO                                                         
+ CLAVE GENERADA: 0040-F-LEON-CON-M                                            
+ ______________________________                                                
+ ********************************* BOTTOM OF DATA **********************************
