@@ -1,0 +1,30 @@
+/*-----------------------------------------------------------
+  Mini juego interactivo "Adivina el número"
+  Autor: Fernando Pérez G.
+  Fecha: Junio 2025
+  Lenguaje: REXX sobre z/OS TSO/ISPF
+-----------------------------------------------------------*/
+/*MINI-JUEGO ADIVINA NUMERO CON REXX-EXEC*/
+RESPUESTA = 'S';INTENTO=1,LIMITE=0
+DO WHILE RESPUESTA ='S'
+	SAY "Juguemos un juego!"
+	SAY "Elige una dificultad (1=Facil, 2=Media, 3=Dificil):"
+	PULL DIFICULTAD
+	ID DIFICULTAD \='1' & DIFICULTAD \='2' & DIFICULTAD \='3' THEN DO
+		DIFICULTAD = '1'
+	END
+	IF DIFICULTAD = '1' THEN LIMITE = 40
+	ELSE IF DIFICULTAD ='2' THEN LIMITE = 80
+	ELSE LIMITE = 120
+	NUMERO=RANDOM(1,LIMITE)
+	SAY "Pienso en un numero entre"
+	SAY "1 y "LIMITE". Intenta adivinarlo!"
+	DO UNTIL NUMERO=GUESS
+		SAY "Ingresa intento #"INTENTO;PULL GUESS
+		IF GUESS>NUMERO THEN SAY "Muy grande!"
+		IF GUESS<NUMERO THEN SAY "Muy pequeno!"
+		INTENTO=INTENTO+1
+	END
+	SAY "Adivinaste!, mi numero es " NUMERO
+	SAY	"Quieres jugar otra vez? (S/N);PULL RESPUESTA
+END
