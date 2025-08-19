@@ -15,7 +15,6 @@
   - `MYMATH1` → **Iteración 1**: Se le pide al usario que ingrese la opción deseada según el tipo de operación aritmética que necesita. Se maneja el caso de cero como divisor.
   - `MYMATH2` → **Iteración 2**: Se implementa una estructura que permite manejar el caso de una opción inválida ingresada por el usuario, y repetir la solicitud de la opción hasta que sea correcta o el usuario interrumpa el programa.
   - `MYMATH3` → **Iteración 3**: Ahora, se implementa la capacidad de que el programa pueda recibir la opción de forma abreviada (S, SU, SUM, SUMA) para elegir la operación a realizar. Además, se valida que la entrada sea de tipo numérica.
-  - `MYMATH4` → **Iteración 4**: Ahora, se valida que los datos introducidos sean del tipo correcto (numérico) antes de efectuar las operaciones, se maneja el error. Además, se agrega la fecha y hora al resultado.
 
 ## 📄 Archivos incluidos
 
